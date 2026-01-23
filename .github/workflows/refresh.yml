@@ -11,8 +11,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          LOCATE: "zh_Hans"
-          SCTION_NAME: "这是什么"
+          LOCALE: "zh_Hans"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "True"
