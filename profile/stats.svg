@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Rain-0x01_'s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 12, Total Commits  (last year) : 46, Total PRs: 14, Total Issues: 77, Contributed to (last year): 28</desc>
+        <desc id="descId">Total Stars Earned: 12, Total Commits  (last year) : 46, Total PRs: 14, Total Issues: 80, Contributed to (last year): 30</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 194.56177462873484;
+        stroke-dashoffset: 194.36409754657151;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >77</text>
+      >80</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >28</text>
+      >30</text>
     </g>
   </g>
     </svg>
