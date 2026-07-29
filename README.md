@@ -5,9 +5,13 @@
 ![GitHub Stats](./profile/stats.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2031%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2044%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-57.12%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-57.21%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
@@ -24,21 +28,21 @@
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-🌆 白天                     147 commits         ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-🌃 傍晚                     369 commits         ████████████████░░░░░░░░░   65.78 % 
-🌙 晚上                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+🌞 早晨                     37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+🌆 白天                     148 commits         ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+🌃 傍晚                     372 commits         ████████████████░░░░░░░░░   65.84 % 
+🌙 晚上                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-星期二                      130 commits         ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-星期三                      54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-星期四                      24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-星期五                      36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-星期六                      168 commits         ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-星期日                      116 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+星期一                      33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+星期二                      131 commits         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+星期三                      54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+星期四                      24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+星期五                      36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+星期六                      169 commits         ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+星期日                      118 commits         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
 ```
 
 
@@ -103,5 +107,5 @@ Inno Setup               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rain-0x01-39/Rain-0x01-39/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:03:40 UTC
+ Last Updated on 29/07/2026 19:56:42 UTC
 <!--END_SECTION:waka-->
