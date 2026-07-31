@@ -17,7 +17,7 @@
 
 > 📦  使用了 214.0 kB GitHub 存储空间 
  > 
-> 🏆 141 个贡献，在 2026 年
+> 🏆 142 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -25,6 +25,70 @@
  > 
 > 🔑 9 个私人仓库 
  > 
+**我是夜猫 🦉** 
+
+```text
+🌞 早晨                     37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+🌆 白天                     152 commits         ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+🌃 傍晚                     384 commits         █████████████████░░░░░░░░   66.09 % 
+🌙 晚上                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+```
+📅 **星期六 时的我最有干劲** 
+
+```text
+星期一                      33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+星期二                      135 commits         ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+星期三                      54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+星期四                      24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+星期五                      36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+星期六                      173 commits         ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+星期日                      126 commits         █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+```
+
+
+📊 **本周消耗时间** 
+
+```text
+🕑︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+Vue                      43 mins             ███████████████░░░░░░░░░░   61.35 % 
+TOML                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+SCSS                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Image (svg)              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+
+🔥 编辑器: 
+VS Code                  1 hr 2 mins         ██████████████████████░░░   89.38 % 
+OpenCode                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+
+💻 操作系统: 
+Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 43 mins (62.49%)
+
+✍️ 8 lines written by AI, 3 lines written by hand (72.73% AI-written)
+
+🔤 162,891 Input Tokens, 8,852 Output Tokens
+
+💵 $0.62 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 25 AI Prompts
+
+Deepseek                 15 lines            ████████████████████░░░░░   78.95 % 
+Opencode-Cli             4 lines             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 72.73% of written lines came from AI
+📝 Concise Prompter — average 74 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 47.22% of changed lines were hand-edited
+```
+
 **我最常使用 Python** 
 
 ```text
@@ -42,5 +106,5 @@ Inno Setup               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rain-0x01-39/Rain-0x01-39/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 20:04:41 UTC
+ Last Updated on 31/07/2026 20:06:17 UTC
 <!--END_SECTION:waka-->
