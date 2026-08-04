@@ -18,7 +18,7 @@ jobs:
           card: stats
           options: username=Rain-0x01-39&show_icons=true&theme=catppuccin_mocha
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit cards
         run: |
