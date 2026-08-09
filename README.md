@@ -26,21 +26,21 @@
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-🌆 白天                     176 commits         ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-🌃 傍晚                     419 commits         ████████████████░░░░░░░░░   65.47 % 
-🌙 晚上                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+🌞 早晨                     37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+🌆 白天                     176 commits         ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+🌃 傍晚                     413 commits         ████████████████░░░░░░░░░   65.14 % 
+🌙 晚上                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-星期二                      149 commits         ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-星期三                      54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-星期四                      24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-星期五                      38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-星期六                      181 commits         ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-星期日                      161 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+星期一                      33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+星期二                      149 commits         ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+星期三                      54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+星期四                      24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+星期五                      32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+星期六                      181 commits         ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+星期日                      161 commits         ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
 ```
 
 
@@ -50,42 +50,35 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue                      33 mins             ████████░░░░░░░░░░░░░░░░░   33.74 % 
-Python                   21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-JSON                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-YAML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-INI                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Vue                      12 mins             █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 10 mins        ██████████████████░░░░░░░   72.18 % 
-OpenCode                 27 mins             ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+OpenCode                 12 mins             █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (79.11%)
+⏱ AI Coding Time: 12 mins (100.0%)
 
-✍️ 37 lines written by AI, 3 lines written by hand (92.5% AI-written)
+✍️ 24 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 313,971 Input Tokens, 6,680 Output Tokens
+🔤 100,024 Input Tokens, 1,513 Output Tokens
 
-💵 $1.04 Estimated AI Cost This Week
+💵 $0.32 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 43 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
-Mimo                     24 lines            ████████████████░░░░░░░░░   64.86 % 
-Opencode-Cli             10 lines            ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-Deepseek                 3 lines             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Mimo                     24 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.5% of written lines came from AI
-📝 Concise Prompter — average 47 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 7.5% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 232 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -105,5 +98,5 @@ Inno Setup               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rain-0x01-39/Rain-0x01-39/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:12:17 UTC
+ Last Updated on 09/08/2026 19:15:11 UTC
 <!--END_SECTION:waka-->
