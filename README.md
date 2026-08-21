@@ -5,17 +5,17 @@
 ![GitHub Stats](./profile/stats.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2039%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-59.44%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-59.53%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 214.3 kB GitHub 存储空间 
  > 
-> 🏆 159 个贡献，在 2026 年
+> 🏆 161 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -26,21 +26,21 @@
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-🌆 白天                     198 commits         ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-🌃 傍晚                     437 commits         ████████████████░░░░░░░░░   64.26 % 
-🌙 晚上                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+🌞 早晨                     37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+🌆 白天                     200 commits         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+🌃 傍晚                     440 commits         ████████████████░░░░░░░░░   64.23 % 
+🌙 晚上                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 📅 **星期日 时的我最有干劲** 
 
 ```text
-星期一                      33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-星期二                      157 commits         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-星期三                      54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-星期四                      24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-星期五                      32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-星期六                      189 commits         ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-星期日                      191 commits         ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+星期一                      33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+星期二                      158 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+星期三                      54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+星期四                      24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+星期五                      32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+星期六                      190 commits         ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+星期日                      194 commits         ███████░░░░░░░░░░░░░░░░░░   28.32 % 
 ```
 
 
@@ -50,42 +50,42 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-HTML                     47 mins             ████████░░░░░░░░░░░░░░░░░   30.81 % 
-Python                   38 mins             ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-TOML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+HTML                     1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   30.27 % 
+Python                   49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Markdown                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Vue                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 33 mins        ███████████████░░░░░░░░░░   61.16 % 
-OpenCode                 59 mins             ██████████░░░░░░░░░░░░░░░   38.84 % 
+VS Code                  2 hrs 59 mins       ██████████████████░░░░░░░   71.66 % 
+OpenCode                 1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   28.34 % 
 
 💻 操作系统: 
-Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (46.75%)
+⏱ AI Coding Time: 2 hrs 36 mins (62.42%)
 
-✍️ 48 lines written by AI, 768 lines written by hand (5.88% AI-written)
+✍️ 249 lines written by AI, 769 lines written by hand (24.46% AI-written)
 
-🔤 853,190 Input Tokens, 20,160 Output Tokens
+🔤 1,711,302 Input Tokens, 62,619 Output Tokens
 
-💵 $7.81 Estimated AI Cost This Week
+💵 $26.75 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 35 AI Prompts
+🧠 9 AI Sessions, 78 AI Prompts
 
-Mimo                     25 lines            █████████████████████████   100.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Mimo                     203 lines           ██████████████████████░░░   89.43 % 
+Opencode-Cli             14 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Deepseek                 10 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.88% of written lines came from AI
-📝 Concise Prompter — average 261 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 94.73% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 24.46% of written lines came from AI
+📝 Concise Prompter — average 469 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 78.12% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -105,5 +105,5 @@ Inno Setup               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rain-0x01-39/Rain-0x01-39/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 19:16:15 UTC
+ Last Updated on 21/08/2026 19:11:10 UTC
 <!--END_SECTION:waka-->
