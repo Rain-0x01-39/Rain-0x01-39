@@ -5,17 +5,17 @@
 ![GitHub Stats](./profile/stats.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-59.53%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
-> 📦  使用了 214.3 kB GitHub 存储空间 
+> 📦  使用了 214.2 kB GitHub 存储空间 
  > 
-> 🏆 161 个贡献，在 2026 年
+> 🏆 163 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -50,42 +50,43 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-HTML                     1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   30.27 % 
-Python                   49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Markdown                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Vue                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Python                   1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+HTML                     52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Vue                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 59 mins       ██████████████████░░░░░░░   71.66 % 
-OpenCode                 1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+VS Code                  2 hrs 7 mins        █████████████░░░░░░░░░░░░   52.51 % 
+OpenCode                 1 hr 54 mins        ████████████░░░░░░░░░░░░░   47.49 % 
 
 💻 操作系统: 
-Windows                  4 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 36 mins (62.42%)
+⏱ AI Coding Time: 3 hrs 24 mins (84.35%)
 
-✍️ 249 lines written by AI, 769 lines written by hand (24.46% AI-written)
+✍️ 329 lines written by AI, 3 lines written by hand (99.1% AI-written)
 
-🔤 1,711,302 Input Tokens, 62,619 Output Tokens
+🔤 2,976,937 Input Tokens, 75,016 Output Tokens
 
-💵 $26.75 Estimated AI Cost This Week
+💵 $35.58 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 78 AI Prompts
+🧠 10 AI Sessions, 86 AI Prompts
 
-Mimo                     203 lines           ██████████████████████░░░   89.43 % 
-Opencode-Cli             14 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Deepseek                 10 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Mimo                     203 lines           ███████████████████░░░░░░   76.32 % 
+Glm                      39 lines            ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Opencode-Cli             14 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Deepseek                 10 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 24.46% of written lines came from AI
-📝 Concise Prompter — average 469 characters per prompt
+🤖 AI-Driven — 99.1% of written lines came from AI
+📝 Concise Prompter — average 428 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 78.12% of changed lines were hand-edited
+🚀 High AI Trust — 1.19% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -105,5 +106,5 @@ Inno Setup               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rain-0x01-39/Rain-0x01-39/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:11:10 UTC
+ Last Updated on 22/08/2026 19:01:35 UTC
 <!--END_SECTION:waka-->
