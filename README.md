@@ -5,17 +5,17 @@
 ![GitHub Stats](./profile/stats.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2017%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-55.98%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-56.43%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 214.3 kB GitHub 存储空间 
  > 
-> 🏆 169 个贡献，在 2026 年
+> 🏆 172 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -26,21 +26,21 @@
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-🌆 白天                     182 commits         █████████░░░░░░░░░░░░░░░░   34.08 % 
-🌃 傍晚                     305 commits         ██████████████░░░░░░░░░░░   57.12 % 
-🌙 晚上                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+🌞 早晨                     42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+🌆 白天                     184 commits         ████████░░░░░░░░░░░░░░░░░   33.89 % 
+🌃 傍晚                     309 commits         ██████████████░░░░░░░░░░░   56.91 % 
+🌙 晚上                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 📅 **星期日 时的我最有干劲** 
 
 ```text
-星期一                      35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-星期二                      115 commits         █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-星期三                      54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-星期四                      24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-星期五                      32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-星期六                      130 commits         ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-星期日                      144 commits         ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+星期一                      36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+星期二                      117 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+星期三                      54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+星期四                      26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+星期五                      32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+星期六                      131 commits         ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+星期日                      147 commits         ███████░░░░░░░░░░░░░░░░░░   27.07 % 
 ```
 
 
@@ -50,44 +50,44 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   4 hrs 23 mins       █████████████░░░░░░░░░░░░   51.81 % 
-Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Python                   4 hrs 41 mins       ████████████████░░░░░░░░░   62.31 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🔥 编辑器: 
-VS Code                  5 hrs 55 mins       █████████████████░░░░░░░░   69.80 % 
-OpenCode                 2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.20 % 
+VS Code                  4 hrs 27 mins       ███████████████░░░░░░░░░░   59.21 % 
+OpenCode                 3 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   40.79 % 
 
 💻 操作系统: 
-Windows                  8 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 9 mins (60.9%)
+⏱ AI Coding Time: 4 hrs 25 mins (58.81%)
 
-✍️ 551 lines written by AI, 43 lines written by hand (92.76% AI-written)
+✍️ 514 lines written by AI, 42 lines written by hand (92.45% AI-written)
 
-🔤 5,924,475 Input Tokens, 138,327 Output Tokens
+🔤 6,783,397 Input Tokens, 117,779 Output Tokens
 
-💵 $94.76 Estimated AI Cost This Week
+💵 $113.48 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 103 AI Prompts
+🧠 16 AI Sessions, 76 AI Prompts
 
-Mimo                     178 lines           ██████████░░░░░░░░░░░░░░░   38.03 % 
-Glm                      112 lines           ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-Deepseek                 107 lines           ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Opencode-Cli             71 lines            ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Deepseek                 266 lines           ███████████████░░░░░░░░░░   61.15 % 
+Glm                      112 lines           ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+Opencode-Cli             57 lines            ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.76% of written lines came from AI
-📄 Detailed Prompter — average 893 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 12.62% of changed lines were hand-edited
+🤖 AI-Driven — 92.45% of written lines came from AI
+📄 Detailed Prompter — average 854 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 9.72% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -107,5 +107,5 @@ Inno Setup               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rain-0x01-39/Rain-0x01-39/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:29:25 UTC
+ Last Updated on 28/08/2026 02:19:25 UTC
 <!--END_SECTION:waka-->
