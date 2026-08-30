@@ -5,17 +5,17 @@
 ![GitHub Stats](./profile/stats.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-56.24%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
-> 📦  使用了 214.3 kB GitHub 存储空间 
+> 📦  使用了 214.4 kB GitHub 存储空间 
  > 
-> 🏆 172 个贡献，在 2026 年
+> 🏆 173 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -50,32 +50,32 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   4 hrs 26 mins       ███████████████░░░░░░░░░░   58.83 % 
-JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Python                   3 hrs 41 mins       ███████████████░░░░░░░░░░   58.01 % 
+Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+TypeScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🔥 编辑器: 
-VS Code                  5 hrs 5 mins        █████████████████░░░░░░░░   67.44 % 
-OpenCode                 2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   32.56 % 
+VS Code                  4 hrs 3 mins        ████████████████░░░░░░░░░   63.81 % 
+OpenCode                 2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.19 % 
 
 💻 操作系统: 
-Windows                  7 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 55 mins (52.01%)
+⏱ AI Coding Time: 3 hrs 46 mins (59.27%)
 
-✍️ 434 lines written by AI, 61 lines written by hand (87.68% AI-written)
+✍️ 425 lines written by AI, 58 lines written by hand (87.99% AI-written)
 
-🔤 5,793,951 Input Tokens, 110,279 Output Tokens
+🔤 5,661,502 Input Tokens, 108,054 Output Tokens
 
 💵 $98.71 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 82 AI Prompts
+🧠 19 AI Sessions, 80 AI Prompts
 
 Deepseek                 266 lines           ███████████████████░░░░░░   74.93 % 
 Glm                      73 lines            █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
@@ -84,10 +84,10 @@ Mimo                     0 lines             ░░░░░░░░░░░�
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.68% of written lines came from AI
-📚 Verbose Prompter — average 4,701 characters per prompt
+🤖 AI-Driven — 87.99% of written lines came from AI
+📚 Verbose Prompter — average 4,091 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 12.99% of changed lines were hand-edited
+🚀 High AI Trust — 12.21% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -107,5 +107,5 @@ Inno Setup               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rain-0x01-39/Rain-0x01-39/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:07:02 UTC
+ Last Updated on 30/08/2026 21:23:12 UTC
 <!--END_SECTION:waka-->
