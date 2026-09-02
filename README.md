@@ -50,43 +50,42 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   1 hr 37 mins        ███████████░░░░░░░░░░░░░░   45.93 % 
-JSON                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-TypeScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-CSS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Python                   43 mins             ███████████░░░░░░░░░░░░░░   42.62 % 
+JSON                     33 mins             ████████░░░░░░░░░░░░░░░░░   32.95 % 
+Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Rust                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 46 mins        █████████████░░░░░░░░░░░░   50.22 % 
-OpenCode                 1 hr 45 mins        ████████████░░░░░░░░░░░░░   49.78 % 
+VS Code                  56 mins             ██████████████░░░░░░░░░░░   55.57 % 
+OpenCode                 45 mins             ███████████░░░░░░░░░░░░░░   44.43 % 
 
 💻 操作系统: 
-Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 47 mins (78.96%)
+⏱ AI Coding Time: 1 hr 10 mins (68.9%)
 
-✍️ 422 lines written by AI, 24 lines written by hand (94.62% AI-written)
+✍️ 164 lines written by AI, 20 lines written by hand (89.13% AI-written)
 
-🔤 5,293,636 Input Tokens, 90,643 Output Tokens
+🔤 2,476,743 Input Tokens, 36,538 Output Tokens
 
-💵 $93.65 Estimated AI Cost This Week
+💵 $47.41 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 61 AI Prompts
+🧠 8 AI Sessions, 35 AI Prompts
 
-Deepseek                 266 lines           ███████████████████░░░░░░   75.57 % 
-Glm                      70 lines            █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-Opencode-Cli             16 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 169 lines           █████████████████████████   99.41 % 
+Mimo                     1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.62% of written lines came from AI
-📚 Verbose Prompter — average 5,339 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.98% of changed lines were hand-edited
+🤖 AI-Driven — 89.13% of written lines came from AI
+📚 Verbose Prompter — average 9,180 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 5.17% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -106,5 +105,5 @@ Inno Setup               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rain-0x01-39/Rain-0x01-39/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:17:17 UTC
+ Last Updated on 02/09/2026 21:16:24 UTC
 <!--END_SECTION:waka-->
