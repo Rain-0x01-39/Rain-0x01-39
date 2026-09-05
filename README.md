@@ -26,21 +26,21 @@
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-🌆 白天                     184 commits         ████████░░░░░░░░░░░░░░░░░   33.58 % 
-🌃 傍晚                     311 commits         ██████████████░░░░░░░░░░░   56.75 % 
+🌞 早晨                     45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+🌆 白天                     185 commits         ████████░░░░░░░░░░░░░░░░░   33.70 % 
+🌃 傍晚                     311 commits         ██████████████░░░░░░░░░░░   56.65 % 
 🌙 晚上                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 📅 **星期日 时的我最有干劲** 
 
 ```text
-星期一                      39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-星期二                      117 commits         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-星期三                      54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+星期一                      39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+星期二                      117 commits         █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+星期三                      55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
 星期四                      26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-星期五                      34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-星期六                      131 commits         ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-星期日                      147 commits         ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+星期五                      34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+星期六                      131 commits         ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+星期日                      147 commits         ███████░░░░░░░░░░░░░░░░░░   26.78 % 
 ```
 
 
@@ -50,39 +50,19 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JSON                     33 mins             ███████████████░░░░░░░░░░   60.90 % 
-Other                    13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-Python                   7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-VS Code                  52 mins             ████████████████████████░   96.07 % 
-OpenCode                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Windows                  54 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (41.39%)
-
-✍️ 0 lines written by AI, 20 lines written by hand (0.0% AI-written)
-
-🔤 539,768 Input Tokens, 9,218 Output Tokens
-
-💵 $4.54 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 16 AI Prompts
-
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 20,053 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 Python** 
@@ -102,5 +82,5 @@ Inno Setup               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rain-0x01-39/Rain-0x01-39/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 20:59:59 UTC
+ Last Updated on 05/09/2026 20:37:49 UTC
 <!--END_SECTION:waka-->
