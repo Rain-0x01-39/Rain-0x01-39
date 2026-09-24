@@ -5,9 +5,9 @@
 ![GitHub Stats](./profile/stats.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-58.94%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -50,36 +50,37 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   33 mins             ███████████████████████░░   92.10 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Python                   1 hr 5 mins         ██████████████████████░░░   88.06 % 
+CSV                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 编辑器: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (99.53%)
+⏱ AI Coding Time: 57 mins (76.87%)
 
-✍️ 270 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 363 lines written by AI, 1,504 lines written by hand (19.44% AI-written)
 
-🔤 620,822 Input Tokens, 28,657 Output Tokens
+🔤 1,071,365 Input Tokens, 39,964 Output Tokens
 
-💵 $16.57 Estimated AI Cost This Week
+💵 $21.86 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 9 AI Prompts
+🧠 2 AI Sessions, 13 AI Prompts
 
-Opencode-Cli             270 lines           █████████████████████████   100.00 % 
+Opencode-Cli             363 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 31 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 19.44% of written lines came from AI
+📝 Concise Prompter — average 37 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 85.83% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -99,5 +100,5 @@ Inno Setup               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rain-0x01-39/Rain-0x01-39/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:43:34 UTC
+ Last Updated on 24/09/2026 21:44:29 UTC
 <!--END_SECTION:waka-->
