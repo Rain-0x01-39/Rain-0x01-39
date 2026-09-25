@@ -5,17 +5,17 @@
 ![GitHub Stats](./profile/stats.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-58.94%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-59.26%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 214.6 kB GitHub 存储空间 
  > 
-> 🏆 180 个贡献，在 2026 年
+> 🏆 181 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -26,21 +26,21 @@
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-🌆 白天                     230 commits         ████████░░░░░░░░░░░░░░░░░   33.53 % 
-🌃 傍晚                     380 commits         ██████████████░░░░░░░░░░░   55.39 % 
-🌙 晚上                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+🌞 早晨                     71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+🌆 白天                     236 commits         ████████░░░░░░░░░░░░░░░░░   33.52 % 
+🌃 傍晚                     389 commits         ██████████████░░░░░░░░░░░   55.26 % 
+🌙 晚上                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 📅 **星期日 时的我最有干劲** 
 
 ```text
-星期一                      62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-星期二                      140 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-星期三                      55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-星期四                      26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-星期五                      34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-星期六                      154 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-星期日                      215 commits         ████████░░░░░░░░░░░░░░░░░   31.34 % 
+星期一                      65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+星期二                      143 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+星期三                      55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+星期四                      26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+星期五                      34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+星期六                      157 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+星期日                      224 commits         ████████░░░░░░░░░░░░░░░░░   31.82 % 
 ```
 
 
@@ -86,11 +86,11 @@ Opencode-Cli             363 lines           ███████████�
 **我最常使用 Python** 
 
 ```text
-Python                   28 repos            ████████████░░░░░░░░░░░░░   49.12 % 
-C#                       8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Inno Setup               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Python                   29 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+C#                       8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Inno Setup               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
@@ -100,5 +100,5 @@ Inno Setup               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rain-0x01-39/Rain-0x01-39/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:44:29 UTC
+ Last Updated on 25/09/2026 21:49:57 UTC
 <!--END_SECTION:waka-->
