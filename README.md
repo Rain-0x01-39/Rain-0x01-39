@@ -5,15 +5,15 @@
 ![GitHub Stats](./profile/stats.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-59.36%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-59.26%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
-> 📦  使用了 214.6 kB GitHub 存储空间 
+> 📦  使用了 214.7 kB GitHub 存储空间 
  > 
 > 🏆 181 个贡献，在 2026 年
  > 
@@ -26,21 +26,21 @@
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-🌆 白天                     238 commits         ████████░░░░░░░░░░░░░░░░░   33.52 % 
-🌃 傍晚                     392 commits         ██████████████░░░░░░░░░░░   55.21 % 
-🌙 晚上                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+🌞 早晨                     71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+🌆 白天                     236 commits         ████████░░░░░░░░░░░░░░░░░   33.52 % 
+🌃 傍晚                     389 commits         ██████████████░░░░░░░░░░░   55.26 % 
+🌙 晚上                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 📅 **星期日 时的我最有干劲** 
 
 ```text
-星期一                      66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-星期二                      144 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-星期三                      55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-星期四                      26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-星期五                      34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-星期六                      158 commits         ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-星期日                      227 commits         ████████░░░░░░░░░░░░░░░░░   31.97 % 
+星期一                      65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+星期二                      143 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+星期三                      55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+星期四                      26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+星期五                      34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+星期六                      157 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+星期日                      224 commits         ████████░░░░░░░░░░░░░░░░░   31.82 % 
 ```
 
 
@@ -50,40 +50,40 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   1 hr 56 mins        ██████████████████████░░░   86.00 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Python                   1 hr 57 mins        █████████████████████░░░░   82.16 % 
+Vue                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 14 mins        ██████████████░░░░░░░░░░░   55.27 % 
-OpenCode                 1 hr                ███████████░░░░░░░░░░░░░░   44.73 % 
+VS Code                  1 hr 14 mins        █████████████░░░░░░░░░░░░   52.24 % 
+OpenCode                 1 hr 8 mins         ████████████░░░░░░░░░░░░░   47.76 % 
 
 💻 操作系统: 
-Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (87.21%)
+⏱ AI Coding Time: 2 hrs 5 mins (87.92%)
 
 ✍️ 363 lines written by AI, 1,504 lines written by hand (19.44% AI-written)
 
-🔤 2,748,863 Input Tokens, 111,754 Output Tokens
+🔤 3,166,950 Input Tokens, 119,559 Output Tokens
 
-💵 $37.00 Estimated AI Cost This Week
+💵 $40.77 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 24 AI Prompts
+🧠 5 AI Sessions, 26 AI Prompts
 
 Opencode-Cli             363 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 19.44% of written lines came from AI
-📝 Concise Prompter — average 84 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 81 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 85.83% of changed lines were hand-edited
 ```
 
@@ -104,5 +104,5 @@ Inno Setup               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rain-0x01-39/Rain-0x01-39/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 21:26:26 UTC
+ Last Updated on 27/09/2026 21:36:13 UTC
 <!--END_SECTION:waka-->
