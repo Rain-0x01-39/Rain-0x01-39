@@ -50,43 +50,43 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       35 mins             ████████████░░░░░░░░░░░░░   49.62 % 
-Binary                   14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-Other                    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-XML                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Microsoft Visual Studio S4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+C#                       14 mins             █████████░░░░░░░░░░░░░░░░   34.11 % 
+Other                    11 mins             ███████░░░░░░░░░░░░░░░░░░   27.28 % 
+Binary                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+XML                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Microsoft Visual Studio S4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
 
 🔥 编辑器: 
-OpenCode                 29 mins             ██████████░░░░░░░░░░░░░░░   41.98 % 
-Visual Studio            27 mins             ██████████░░░░░░░░░░░░░░░   38.27 % 
-Opencode Cli             11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Visual Studio            18 mins             ███████████░░░░░░░░░░░░░░   42.65 % 
+Opencode Cli             11 mins             ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+OpenCode                 10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 💻 操作系统: 
-Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (85.38%)
+⏱ AI Coding Time: 37 mins (89.27%)
 
-✍️ 728 lines written by AI, 122 lines written by hand (85.65% AI-written)
+✍️ 223 lines written by AI, 122 lines written by hand (64.64% AI-written)
 
-🔤 5,098,704 Input Tokens, 114,242 Output Tokens
+🔤 2,036,905 Input Tokens, 59,238 Output Tokens
 
-💵 $31.56 Estimated AI Cost This Week
+💵 $20.64 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 17 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
 
-Visualstudio             6 lines             █████████████████████████   100.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Visualstudio             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.65% of written lines came from AI
-📝 Concise Prompter — average 63 characters per prompt
+⚖️ Balanced with AI — 64.64% of written lines came from AI
+📝 Concise Prompter — average 32 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 14.19% of changed lines were hand-edited
+🚀 High AI Trust — 35.06% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -106,5 +106,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rain-0x01-39/Rain-0x01-39/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 22:38:49 UTC
+ Last Updated on 31/10/2026 21:52:22 UTC
 <!--END_SECTION:waka-->
